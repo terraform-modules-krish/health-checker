@@ -2,8 +2,8 @@ package commands
 
 import (
 	"flag"
-	"github.com/gruntwork-io/health-checker/options"
-	"github.com/gruntwork-io/health-checker/test"
+	"github.com/terraform-modules-krish/health-checker/options"
+	"github.com/terraform-modules-krish/health-checker/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/urfave/cli"
 	"strings"
