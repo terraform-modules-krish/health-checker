@@ -2,7 +2,7 @@ package server
 
 import (
 	"net/http"
-	"github.com/gruntwork-io/health-checker/options"
+	"github.com/terraform-modules-krish/health-checker/options"
 	"net"
 	"fmt"
 )

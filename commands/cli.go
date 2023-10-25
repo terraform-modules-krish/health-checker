@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/gruntwork-io/gruntwork-cli/errors"
-	"github.com/gruntwork-io/health-checker/server"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
+	"github.com/terraform-modules-krish/health-checker/server"
 	"github.com/urfave/cli"
 )
 
