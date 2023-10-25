@@ -2,8 +2,8 @@ package commands
 
 import (
 	"fmt"
-	"github.com/gruntwork-io/health-checker/options"
-	"github.com/gruntwork-io/gruntwork-cli/logging"
+	"github.com/terraform-modules-krish/health-checker/options"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
 	"github.com/urfave/cli"
 	"github.com/sirupsen/logrus"
 	"os"
