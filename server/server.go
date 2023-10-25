@@ -3,8 +3,8 @@ package server
 import (
 	"context"
 	"fmt"
-	"github.com/gruntwork-io/gruntwork-cli/errors"
-	"github.com/gruntwork-io/health-checker/options"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
+	"github.com/terraform-modules-krish/health-checker/options"
 	"net"
 	"net/http"
 	"os/exec"
