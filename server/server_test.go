@@ -1,9 +1,9 @@
 package server
 
 import (
-	"github.com/gruntwork-io/gruntwork-cli/logging"
-	"github.com/gruntwork-io/health-checker/options"
-	"github.com/gruntwork-io/health-checker/test"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
+	"github.com/terraform-modules-krish/health-checker/options"
+	"github.com/terraform-modules-krish/health-checker/test"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"net"

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gruntwork-io/gruntwork-cli/entrypoint"
-	"github.com/gruntwork-io/health-checker/commands"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/entrypoint"
+	"github.com/terraform-modules-krish/health-checker/commands"
 )
 
 // This variable is set at build time using -ldflags parameters. For example, we typically set this flag in circle.yml
