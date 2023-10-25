@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gruntwork-io/gruntwork-cli/logging"
-	"github.com/gruntwork-io/health-checker/options"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/logging"
+	"github.com/terraform-modules-krish/health-checker/options"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gruntwork-io/gruntwork-cli/errors"
-	"github.com/gruntwork-io/health-checker/options"
+	gruntwork-cli "github.com/terraform-modules-krish/go-commons/errors"
+	"github.com/terraform-modules-krish/health-checker/options"
 	"golang.org/x/sync/singleflight"
 )
 
